@@ -20,8 +20,6 @@ PACS storage tiering and cost.
 | File | Description |
 |---|---|
 | `RadFlow_Combined.m` | Main MATLAB analysis script — cleans the data, simulates workflow times, assigns PACS storage tiers, and generates all 4 figures |
-| `Project_report.docx` | Full written report: methodology, results, and discussion |
-| `Project797_Presentation.pptx` | Slide deck summarizing the project |
 | `figures/` | The 4 generated dashboard PNGs (see Visualizations below) |
 | `README.md` | This file |
 
@@ -73,5 +71,4 @@ Avg TAT by tier, avg file size by tier, estimated monthly storage cost model.
 - A tiered storage strategy (SSD / HDD / Archive) offers meaningful projected
   cost savings over storing all studies on high-performance storage.
 
-See `Project_report.docx` for full methodology and discussion, and
-`Project797_Presentation.pptx` for a summarized walkthrough.
+
